@@ -14,4 +14,4 @@
 &nbsp;
 
 - **Deployment**
-  - PythonAnywhere (cannot connect to MongoDB with free account)****
+  - PythonAnywhere (cannot connect to MongoDB with free account)
